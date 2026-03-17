@@ -5,11 +5,7 @@
 ## Getting Started
 
 1. Copy an agent folder to your OpenClaw agents directory
-2. Edit the files with your specific details:
-   - IDENTITY.md — Agent name and role
-   - USER.md — Your business context
-   - AGENTS.md — Customize workflows
-   - TOOLS.md — Add your API keys
+2. Edit the core subagent files per your use cases and needs
 3. Register in openclaw.json
 4. Spawn via orchestrator or cron
 
